@@ -1,9 +1,9 @@
 # IT266-Quake4
 Quake Mod Project
-
 Things Accomplish in this Project:
  
- Mod 3 weapons: 
+Mod 3 weapons: 
+ 
 -Grenade Launcher is automatic and with wide blast radius and takes no gravity and 1 hit kill.
 - Napalm launcher is automatic and take bouncyness of a grenade and takes less gravitiy and 1 hit kill.
 -Nail gun is automatic and faster fire rate; fires rockets instead of nails and purple muzzle flash and 1 hit kill.
